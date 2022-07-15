@@ -1,6 +1,6 @@
 {
   "name": "@geolonia/cra-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Official Geolonia template for Create React App",
   "repository": {
     "type": "git",
